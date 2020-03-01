@@ -1,6 +1,6 @@
 body{
-    background:linear-gradient(to right,#3582d4,#9943c4);
-    /*background:radial-gradient(circle at top left, #0078b9, #80379b);*/
+    background:linear-gradient(120deg, #3582d4, #9943c4); 
+    /*blue -> purple*/
 }
     
 h1{
@@ -8,16 +8,13 @@ h1{
   color: white;
   font-size: 90px;
 }
-.io{
-  color: white;
-  font-size: 20px;
-}
+
 .img{
   width: 400px;
   margin-right: auto;
   margin-left: auto;
   display: block; 
-  /*display: starts on a new line, and takes up the whole width & ignore all html*/
+  /*display:block- starts on a new line, and takes up the whole width & ignore all html*/
 }
 
 div{
