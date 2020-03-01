@@ -21,7 +21,7 @@ div{
   /*font-family:;*/
   text-align:center;
   margin: 50px;
-  border: 50px;
+  /*border: 50px;*/
   color: rgba(255, 255, 255, 0.8);
   
 }
@@ -46,5 +46,5 @@ div{
 }
 
 .font{
-    font-family:'Helvetica Neue';
+    font-family:'Helvetica';
 }
